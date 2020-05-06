@@ -1,0 +1,32 @@
+#comment
+name: Jiri
+names:
+  - John
+  - Paul
+  - Ringo
+
+pound_sign: "#"
+
+book:
+  author: Joe Buck
+  publisher: random house
+
+
+truth: yes
+another_truth: true
+
+false: no
+
+string_value: "This is it's quote"
+
+colon_string: "my courses: guru Spring"
+
+include_new_lines: |
+  asdgagas
+  aghrieph
+  aehrekh
+
+ignore_new_lines: >
+  this is
+  just one long
+  text
